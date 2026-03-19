@@ -59,7 +59,7 @@ Before pursuing her graduate studies, Park worked as a data analyst for two year
 
 ### Links
 
-[Academic Website](https://ystellapark.github.io) | [Google Scholar](https://scholar.google.com/citations?user=S9VPzdkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ystellapark/) | [Faculty Page](https://yeayeun.sogang.ac.kr/yeayeun)
+**Websites:** [Academic Website](https://ystellapark.github.io) | [Google Scholar](https://scholar.google.com/citations?user=S9VPzdkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ystellapark/) | [Faculty Page](https://yeayeun.sogang.ac.kr/yeayeun)
 
 **Contact:** [yeayeunpark@sogang.ac.kr](mailto:yeayeunpark@sogang.ac.kr)
 
