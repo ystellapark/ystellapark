@@ -31,7 +31,7 @@ Before pursuing her graduate studies, Park worked as a data analyst for two year
 ### Working Papers
 
 1. "Do Retail Flows Explain the Overnight-Intraday Return Gap?" with Y. Ahn, D. Noh, and A.Q. Fan
-        *R&R at Journal of Financial and Quantitative Analysis*
+   <br>&emsp;*R&R at Journal of Financial and Quantitative Analysis*
 2. "Disclosure and Competition for Limited Investor Resources" with C. Schrand and F. Zhou
 3. "Chinese Government Financing and Financial Reporting Quality" with Y. Chen and Y. Heng
 4. "Is Disclosure Priced Ex-Ante?" with J. Michels
