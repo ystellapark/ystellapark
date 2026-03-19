@@ -10,6 +10,8 @@ I am an Assistant Professor of Accounting at Sogang Business School, Sogang Univ
 
 My research broadly relates to **disclosure, information processing, and contracting**. In particular, my work examines how information held and processed by various market participants influences their strategic behavior, ultimately shaping outcomes in capital markets and the real economy.
 
+Before pursuing her graduate studies, Park worked as a data analyst for two years at the Samuel Zell and Robert Lurie Real Estate Center of the Wharton School.
+
 ---
 
 ### Education
